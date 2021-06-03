@@ -1,5 +1,5 @@
-var nombre = "Gaddiel"
-var email = "gaddiel@gmail.com"
+var nombre = "Gerardo"
+var email = "ivanmtze96@gmail.com"
 var edad = 20
 
 function getNombre() {
